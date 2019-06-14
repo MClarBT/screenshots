@@ -1,0 +1,33 @@
+.body-container {
+  display: grid;
+}
+
+.header-container {
+  background-color: #F8F8FF;
+  display: inline;
+}
+
+.messages {
+  font-color: #5fc9f8;
+  display: inline;
+}
+
+.name {
+  font-weight: bold;
+  display: inline;
+}
+
+.contacts {
+  font-color: #5fc9f8;
+  display: inline;
+}
+
+.imessage {
+  background-color: #5fc9f8;
+  border-radius: 0.5;
+
+}
+
+.grey-text {
+  font-color: grey;
+}
